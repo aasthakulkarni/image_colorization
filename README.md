@@ -1,2 +1,2 @@
 # image_colorization
-convert grayscale to colorful image 
+Transform black and white images to colored.
